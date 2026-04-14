@@ -2,17 +2,26 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Lingeshwar S NK</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Mechanical Engineering Student | Robotics
+Specialization | Java & Python Developer
+Aspiring Al Engineer | Finance Enthusiast Flutter</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I’m a Mechanical Engineering student at VIT-AP with a strong drive to build things that actually solve real-world problems. My core strength lies at the intersection of engineering, coding, and emerging technologies—I work with Python and Java, and I’m actively exploring AI-driven solutions and full-stack development.
+
+What sets me apart is not just technical curiosity, but execution. I enjoy taking ideas from scratch and turning them into functional systems—whether it’s building smart IoT-based solutions, working on automation concepts, or developing AI-powered platforms. I’m currently working on projects that blend technology with real-world impact, including intelligent systems and scalable digital platforms.
+
+I’m also deeply interested in problem-solving under constraints, which is why hackathons excite me. They push me to think fast, adapt, collaborate, and build meaningful solutions within limited time—skills that reflect how real innovation happens.
+
+Beyond technical skills, I bring strong communication, adaptability, and a constant hunger to learn and improve. My goal is to not just participate, but to create something impactful, learn from talented peers, and push my limits.
+
+I see the SCBC Hackathon as an opportunity to challenge myself, collaborate with like-minded innovators, and build solutions that matter.I build digital products that feel fast, intuitive, and enjoyable.
   </p>
 
   <p>
@@ -24,33 +33,18 @@
 
 <h3>🌐 Socials</h3>
   
-<p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
 
   <a href="https://instagram.com/mike.devlogs">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href=
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://x.com/mike_devlogs">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
