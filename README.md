@@ -10,7 +10,7 @@ Specialization | Java & Python Developer
 Aspiring Al Engineer | Finance Enthusiast Flutter</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
 
   <p>
     I’m a Mechanical Engineering student at VIT-AP with a strong drive to build things that actually solve real-world problems. My core strength lies at the intersection of engineering, coding, and emerging technologies—I work with Python and Java, and I’m actively exploring AI-driven solutions and full-stack development.
@@ -27,8 +27,7 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:lingeshwar7755@gmail.com"><img src="https://img.shields.io/badge/📧lingeshwar7755@gmail.com-1e1e2e?style=for-the-badge" /></a>
 
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+  
 
 <h3>🌐 Socials</h3>
   
@@ -52,6 +51,7 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 
 
 ## 🛠️ Skills
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 <p align="center">
 <table>
 <tr>
@@ -71,6 +71,7 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
   <h3>🗄️ Databases</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 <br/><br/>
+
 
 </td>
 
