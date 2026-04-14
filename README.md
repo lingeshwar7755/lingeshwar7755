@@ -33,17 +33,15 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 <h3>🌐 Socials</h3>
   
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/lingeshwar-s-0ba055402">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+</a>
 
-  <a href=
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+<a href="https://x.com/riyomas_boy">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+</a>
 
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
+ 
   </a>
 </p>
 
@@ -61,14 +59,9 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 <br/><br/>
 
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
 </td>
 
 
@@ -77,14 +70,14 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
 </td>
 </tr>
 </table>
@@ -95,12 +88,6 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
 
 ---
 
