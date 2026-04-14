@@ -25,8 +25,8 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <a href="mailto:lingeshwar7755@gmail.com"><img src="https://img.shields.io/badge/📧lingeshwar7755@gmail.com-1e1e2e?style=for-the-badge" /></a>
+
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -46,8 +46,7 @@ Beyond technical skills, I bring strong communication, adaptability, and a const
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+
 
 <br clear="all" />
 
