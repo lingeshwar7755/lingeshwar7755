@@ -21,7 +21,6 @@ I’m also deeply interested in problem-solving under constraints, which is why 
 
 Beyond technical skills, I bring strong communication, adaptability, and a constant hunger to learn and improve. My goal is to not just participate, but to create something impactful, learn from talented peers, and push my limits.
 
-I see the SCBC Hackathon as an opportunity to challenge myself, collaborate with like-minded innovators, and build solutions that matter.I build digital products that feel fast, intuitive, and enjoyable.
   </p>
 
   <p>
